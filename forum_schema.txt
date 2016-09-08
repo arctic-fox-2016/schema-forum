@@ -1,1 +1,1 @@
-Copy your URL to screenshot here
+forum_schema = http://imgur.com/a/Odxwd
